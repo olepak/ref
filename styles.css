@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+:root {
+	--test-frame: 0px solid black;
+}
+
+body {
+	font-family: "Outfit", sans-serif;
+	color: hsl(218, 33%, 19%);
+	margin: auto;
+	width: 1000px;
+	outline: var(--test-frame);
+	background-color: #fff;
+}
+h1 {
+	text-align: center;
+}
