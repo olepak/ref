@@ -11,6 +11,9 @@ body {
 	outline: var(--test-frame);
 	background-color: #fff;
 }
+a:visited {
+	color:inherit;
+}
 h1 {
 	text-align: center;
 }
