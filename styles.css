@@ -11,6 +11,7 @@ body {
 	outline: var(--test-frame);
 	background-color: #fff;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+	padding-bottom: 1000px;
 }
 
 a,
