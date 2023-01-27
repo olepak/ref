@@ -2,7 +2,6 @@
 :root {
 	--test-frame: 0px solid black;
 }
-
 body {
 	font-family: "Outfit", sans-serif;
 	color: hsl(218, 33%, 19%);
